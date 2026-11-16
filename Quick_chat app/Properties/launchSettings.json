@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Quick_chat app": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
